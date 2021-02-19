@@ -10,3 +10,6 @@
 * I implement K-means algorithm. It uses two primary pieces of data, the "means" list, and the assignments list-of-lists.
 * As it keep updating the means list, it recomputes the assignments list, so each pixel is assigned to the "closest" color match in the means list.
 * Finally, the algorithm will find a good set of menas, and assignments, and will not change once updated.
+
+<p>You can see the output below</p>
+<img src="output.png" alt="output">
