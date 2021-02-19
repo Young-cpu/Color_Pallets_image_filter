@@ -12,4 +12,4 @@
 * Finally, the algorithm will find a good set of menas, and assignments, and will not change once updated.
 
 <p>You can see the output below</p>
-<img src="output.png" alt="output">
+<img src="output.JPG" alt="output">
